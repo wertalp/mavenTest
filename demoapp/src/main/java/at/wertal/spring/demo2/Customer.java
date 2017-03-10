@@ -34,10 +34,23 @@ public class Customer {
 	}
 
 	public void setId(int id) {
+		System.out.println();
 		this.id = id;
 	}
 
 	public String getVorName() {
+		
+		System.out.println("Finished work on testbranch");
+		System.out.println("stage2");
+		System.out.println("stage2");
+		System.out.println("stage2");
+		System.out.println("stage2");
+		System.out.println("stage2");
+		System.out.println("stage2");
+		System.out.println("stage2");
+		System.out.println("stage2");
+		System.out.println("stage2");
+		System.out.println("Test me again");
 		return vorName;
 	}
 
